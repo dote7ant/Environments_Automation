@@ -2,7 +2,12 @@
 
 A user-friendly GUI application for creating and configuring Python virtual environments with pre-configured package sets for different development scenarios.
 
-![Python Environment Setup](Assets\View.png)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Assets/View.png">
+    <img src="./Assets\View.png">
+  </picture>
+</p>
 
 ## Features
 
@@ -100,7 +105,7 @@ ctk.set_default_color_theme("themes/your_theme.json")
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
